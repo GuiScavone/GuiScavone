@@ -8,10 +8,6 @@
 
 ### 📚 O que estudo e desenvolvo 📚
 
-    Swift - BackFront Academy
- 📱  1º App - Tela Cadastro
- 📱  2º App - Tabela com imagem e resposta
-
 
 
 [![Guilherme GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GuiScavone&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/GuiScavone/github-readme-stats#gh-dark-mode-only)
